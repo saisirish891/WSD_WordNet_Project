@@ -1,0 +1,11 @@
+sentence,word,predicted_sense,definition,synonyms
+I went to the bank to deposit money.,bank,depository_financial_institution.n.01,a financial institution that accepts deposits and channels the money into lending activities,"depository financial institution, bank, banking concern, banking company"
+The fisherman sat on the bank of the river.,bank,bank.n.01,sloping land (especially the slope beside a body of water),bank
+The bat flew out of the cave at night.,bat,bat.v.03,have a turn at bat,bat
+The baseball player hit the ball with a bat.,bat,bat.v.01,"strike with, or as if with a baseball bat",bat
+The computer mouse stopped working.,mouse,mouse.v.02,manipulate the mouse of a computer,mouse
+The mouse ran across the kitchen floor.,mouse,mouse.v.02,manipulate the mouse of a computer,mouse
+The crane lifted the heavy container.,crane,grus.n.01,a small constellation in the southern hemisphere near Phoenix,"Grus, Crane"
+The crane stood near the lake.,crane,grus.n.01,a small constellation in the southern hemisphere near Phoenix,"Grus, Crane"
+The workers planted a tree in the garden.,plant,plant.n.02,(botany) a living organism lacking the power of locomotion,"plant, flora, plant life"
+The factory plant produces electronic components.,plant,plant.n.01,buildings for carrying on industrial labor,"plant, works, industrial plant"

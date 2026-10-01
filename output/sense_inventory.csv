@@ -1,0 +1,51 @@
+word,sense_number,synset,part_of_speech,definition,synonyms,examples,hypernyms,hyponyms
+bank,1,bank.n.01,n,sloping land (especially the slope beside a body of water),bank,they pulled the canoe up on the bank; he sat on the bank of the river and watched the currents,slope.n.01,"riverbank.n.01, waterside.n.01"
+bank,2,depository_financial_institution.n.01,n,a financial institution that accepts deposits and channels the money into lending activities,"depository financial institution, bank, banking concern, banking company",he cashed a check at the bank; that bank holds the mortgage on my home,financial institution.n.01,"acquirer.n.02, merchant bank.n.01, credit union.n.01, commercial bank.n.01, federal reserve bank.n.01, thrift institution.n.01, lead bank.n.01, state bank.n.01, member bank.n.01, home loan bank.n.01, agent bank.n.02"
+bank,3,bank.n.03,n,a long ridge or pile,bank,a huge bank of earth,ridge.n.01,"sandbank.n.01, bluff.n.01"
+bank,4,bank.n.04,n,an arrangement of similar objects in a row or in tiers,bank,he operated a bank of switches,array.n.01,
+bank,5,bank.n.05,n,a supply or stock held in reserve for future use (especially in emergencies),bank,,reserve.n.02,"food bank.n.01, soil bank.n.01, blood bank.n.01, eye bank.n.01"
+bank,6,bank.n.06,n,the funds held by a gambling house or the dealer in some gambling games,bank,he tried to break the bank at Monte Carlo,funds.n.01,
+bank,7,bank.n.07,n,a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force,"bank, cant, camber",,slope.n.01,
+bank,8,savings_bank.n.02,n,a container (usually with a slot in the top) for keeping money at home,"savings bank, coin bank, money box, bank",the coin bank was empty,container.n.01,piggy bank.n.01
+bank,9,bank.n.09,n,a building in which the business of banking transacted,"bank, bank building",the bank is on the corner of Nassau and Witherspoon,depository.n.01,
+bank,10,bank.n.10,n,a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning),bank,the plane went into a steep bank,flight maneuver.n.01,vertical bank.n.01
+bank,11,bank.v.01,v,tip laterally,bank,the pilot had to bank the aircraft,tip.v.01,
+bank,12,bank.v.02,v,enclose with a bank,bank,bank roads,enclose.v.03,
+bank,13,bank.v.03,v,do business with a bank or keep an account at a bank,bank,Where do you bank in this town?,transact.v.01,
+bank,14,bank.v.04,v,act as the banker in a game or in gambling,bank,,act.v.04,
+bank,15,bank.v.05,v,be in the banking business,bank,,work.v.02,
+bank,16,deposit.v.02,v,put into a bank account,"deposit, bank",She deposits her paycheck every month,give.v.03,redeposit.v.01
+bank,17,bank.v.07,v,cover with ashes so to control the rate of burning,bank,bank a fire,cover.v.01,
+bank,18,trust.v.01,v,have confidence or faith in,"trust, swear, rely, bank",We can trust in God; Rely on your friends; bank on your good education; I swear by my grandmother's recipes,believe.v.01,"lean.v.04, count.v.08, credit.v.04"
+bat,1,bat.n.01,n,nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate,"bat, chiropteran",,placental.n.01,"fruit bat.n.01, carnivorous bat.n.01"
+bat,2,bat.n.02,n,(baseball) a turn trying to get a hit,"bat, at-bat",he was at bat when it happened; he got four hits in four at-bats,turn.n.03,
+bat,3,squash_racket.n.01,n,a small racket with a long handle used for playing squash,"squash racket, squash racquet, bat",,racket.n.04,
+bat,4,cricket_bat.n.01,n,the club used in playing cricket,"cricket bat, bat",a cricket bat has a narrow handle and a broad flat end for hitting,cricket equipment.n.01,
+bat,5,bat.n.05,n,a club used for hitting a ball in various games,bat,,club.n.03,"paddle.n.01, baseball bat.n.01"
+bat,6,bat.v.01,v,"strike with, or as if with a baseball bat",bat,bat the ball,hit.v.03,switch-hit.v.01
+bat,7,bat.v.02,v,wink briefly,"bat, flutter",bat one's eyelids,blink.v.01,
+bat,8,bat.v.03,v,have a turn at bat,bat,"Jones bats first, followed by Martinez",hit.v.03,
+bat,9,bat.v.04,v,use a bat,bat,Who's batting?,hit.v.03,
+bat,10,cream.v.02,v,beat thoroughly and conclusively in a competition or fight,"cream, bat, clobber, drub, thrash, lick",We licked the other team on Sunday!,beat.v.01,
+mouse,1,mouse.n.01,n,any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails,mouse,,rodent.n.01,"house mouse.n.01, harvest mouse.n.02, wood mouse.n.01, field mouse.n.02, nude mouse.n.01"
+mouse,2,shiner.n.01,n,a swollen bruise caused by a blow to the eye,"shiner, black eye, mouse",,bruise.n.01,
+mouse,3,mouse.n.03,n,person who is quiet or timid,mouse,,person.n.01,
+mouse,4,mouse.n.04,n,a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad,"mouse, computer mouse",a mouse takes much more room than a trackball,electronic device.n.01,
+mouse,5,sneak.v.01,v,to go stealthily or furtively,"sneak, mouse, creep, pussyfoot",..stead of sneaking around spying on the neighbor's house,walk.v.01,
+mouse,6,mouse.v.02,v,manipulate the mouse of a computer,mouse,,manipulate.v.02,
+crane,1,crane.n.01,n,United States writer (1871-1900),"Crane, Stephen Crane",,,
+crane,2,crane.n.02,n,United States poet (1899-1932),"Crane, Hart Crane, Harold Hart Crane",,,
+crane,3,grus.n.01,n,a small constellation in the southern hemisphere near Phoenix,"Grus, Crane",,,
+crane,4,crane.n.04,n,lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis,crane,,lifting device.n.01,"derrick.n.02, transporter.n.02, davit.n.01"
+crane,5,crane.n.05,n,large long-necked wading bird of marshes and plains in many parts of the world,crane,,wading bird.n.01,whooping crane.n.01
+crane,6,crane.v.01,v,stretch (the neck) so as to see better,"crane, stretch out",The women craned their necks to see the President drive by,stretch.v.02,
+plant,1,plant.n.01,n,buildings for carrying on industrial labor,"plant, works, industrial plant",they built a large plant to manufacture automobiles,building complex.n.01,"distillery.n.01, smelter.n.01, mint.n.06, packinghouse.n.02, recycling plant.n.01, sewage disposal plant.n.01, brewery.n.01, refinery.n.01, saltworks.n.01, bottling plant.n.01, factory.n.01"
+plant,2,plant.n.02,n,(botany) a living organism lacking the power of locomotion,"plant, flora, plant life",,organism.n.01,"vascular plant.n.01, endemic.n.02, annual.n.01, plantlet.n.01, aquatic.n.01, gametophyte.n.01, myrmecophyte.n.01, ornamental.n.01, escape.n.06, sporophyte.n.01, wilding.n.01, embryo.n.01, pot plant.n.01, biennial.n.01, hygrophyte.n.01, holophyte.n.01, houseplant.n.01, phytoplankton.n.01, monocarp.n.01, crop.n.02, neophyte.n.01, cryptogam.n.01, poisonous plant.n.01, acrogen.n.01, microflora.n.01, rock plant.n.01, garden plant.n.01, autophyte.n.01, perennial.n.01, non-flowering plant.n.01, apomict.n.01, air plant.n.01"
+plant,3,plant.n.03,n,an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience,plant,,actor.n.01,
+plant,4,plant.n.04,n,something planted secretly for discovery by another,plant,the police used a plant to trick the thieves; he claimed that the evidence against him was a plant,contrivance.n.03,
+plant,5,plant.v.01,v,"put or set (seeds, seedlings, or plants) into the ground","plant, set",Let's plant flowers in the garden,put.v.01,"checkrow.v.01, dibble.v.01, root.v.03, tree.v.02, replant.v.01, afforest.v.01, bed.v.02, puddle.v.03"
+plant,6,implant.v.01,v,fix or set securely or deeply,"implant, engraft, embed, imbed, plant",He planted a knee in the back of his opponent; The dentist implanted a tooth in the gum,insert.v.01,"bury.v.05, nest.v.02, pot.v.01"
+plant,7,establish.v.02,v,set up or lay the groundwork for,"establish, found, plant, constitute, institute",establish a new department,initiate.v.02,"appoint.v.01, fix.v.06"
+plant,8,plant.v.04,v,place into a river,plant,plant fish,stock.v.06,
+plant,9,plant.v.05,v,place something or someone in a certain position in order to secretly observe or deceive,plant,Plant a spy in Moscow; plant bugs in the dissident's apartment,put.v.01,
+plant,10,plant.v.06,v,put firmly in the mind,"plant, implant",Plant a thought in the students' minds,communicate.v.01,
